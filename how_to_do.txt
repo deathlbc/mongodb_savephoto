@@ -2,8 +2,6 @@
 開啟mongodb server
 二、
 test.py插入圖片
-三、
-test.js(這邊失敗)
 
 測試指令：
 一、
