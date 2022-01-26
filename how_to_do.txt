@@ -1,0 +1,22 @@
+一、
+開啟mongodb server
+二、
+test.py插入圖片
+三、
+test.js(這邊失敗)
+
+測試指令：
+一、
+1.進入mongodb。
+2.show dbs 列出所有資料庫
+(看資料庫有沒有成功創建、且創建的資料庫大小是否為0)
+
+3.use dbname_photo
+裡面會有兩個collection
+fs.chunks：把儲存對象分割成多個chunk(文件片段。)
+fs.files：簡單紀錄各物件資訊。
+
+4.相關資料
+https://www.runoob.com/mongodb/mongodb-gridfs.html
+https://dev.to/thenishant/store-images-in-mongodb-via-python-2g73
+
